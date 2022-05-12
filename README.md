@@ -1,6 +1,6 @@
 # UE5 BlockHead
 
-![Gameplay Demo](blockhead.gif)
+<img src="blockhead.gif" alt="Gameplay Demo" width="300">
 
 Block drifting obstacle avoidance game with HUD, start and end menus, and level progression system.
 
